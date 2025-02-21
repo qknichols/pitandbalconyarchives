@@ -14,7 +14,7 @@ credits: true
 
 ## About CollectionBuilder CSV
 
-This collection features items from [Pit and Balcony Theatre's]http://www.pitandbalconytheatre.com archives and is built using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+This collection features items from [Pit and Balcony Theatre's] http://www.pitandbalconytheatre.com archives and is built using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
 
 CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
 
