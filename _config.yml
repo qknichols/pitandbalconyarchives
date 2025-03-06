@@ -8,7 +8,7 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: qknichols.github.io
+url: http://www.pitandbalconytheatre.com
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /p&b_archives
 # location of code, the full url to your github repository
@@ -23,7 +23,7 @@ title: Pit & Balcony Theatre Archives
 tagline: A digital archive of Pit & Balcony's physical archive collection, created and managed by Quinn Nichols.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: Pit and Balcony Theatre is a 501(c) 3 non-profit organization that has long played a strong role in the realization and fulfillment of the vision of arts and culture in the Great Lakes Bay Region.
+description: Pit and Balcony Theatre is a 501(c)3 non-profit organization that has long played a strong role in the realization and fulfillment of the vision of arts and culture in the Great Lakes Bay Region.
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: theater; community theater; michigan; Saginaw
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
