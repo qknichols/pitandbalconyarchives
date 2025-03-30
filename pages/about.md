@@ -28,7 +28,3 @@ Pit and Balcony Theatre began in 1932 when seven members of the American Associa
 During January of 1943 a the Barn was razed by fire. The group then rented space in what is now Old Town Saginaw for rehearsals and performances were held at the Masonic Temple in Downtown Saginaw.
 
 In 1948 vacant land at the corner of N. Hamilton and Throop was purchased and a building campaign began. Pit and Balcony members were actively involved in the construction of the theatre.In the fall of 1949, the first play in the new building was produced. Pit and Balcony Theatre remains in this building today.
-
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
