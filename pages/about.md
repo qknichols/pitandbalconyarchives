@@ -22,7 +22,7 @@ MISSION: To create a dynamic community theatre that engages artists and audience
 
 VISION: A thriving community theatre known for our exceptional performances and focus on learning, growth, and production opportunities for all ages, abilities, and interests.
 
-## History of Pit & Balcony
+## History
 Pit and Balcony Theatre began in 1932 when seven members of the American Association of University Women (AAUW) read and acted plays in their homes. After the first year the group had grown to over 200 members and the troupe was offered the carriage house of a private residence for performances. It was dubbed "the Barn". At this time, the group withdrew from the AAUW and established Pit and Balcony Theatre.
 
 During January of 1943 a the Barn was razed by fire. The group then rented space in what is now Old Town Saginaw for rehearsals and performances were held at the Masonic Temple in Downtown Saginaw.
