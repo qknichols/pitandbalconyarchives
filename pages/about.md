@@ -20,14 +20,12 @@ Pit and Balcony Theatre is a 501(c) 3 non-profit organization that has long play
 MISSION: To create a dynamic community theatre that engages artists and audiences in enriching performing arts experiences.
 
 VISION: A thriving community theatre known for our exceptional performances and focus on learning, growth, and production opportunities for all ages, abilities, and interests.
-
 ## History
 Pit and Balcony Theatre began in 1932 when seven members of the American Association of University Women (AAUW) read and acted plays in their homes. After the first year the group had grown to over 200 members and the troupe was offered the carriage house of a private residence for performances. It was dubbed "the Barn". At this time, the group withdrew from the AAUW and established Pit and Balcony Theatre.
 
 During January of 1943 a the Barn was razed by fire. The group then rented space in what is now Old Town Saginaw for rehearsals and performances were held at the Masonic Temple in Downtown Saginaw.
 
 In 1948 vacant land at the corner of N. Hamilton and Throop was purchased and a building campaign began. Pit and Balcony members were actively involved in the construction of the theatre.In the fall of 1949, the first play in the new building was produced. Pit and Balcony Theatre remains in this building today.
-
 ## Staff
 Amy Spadafore, Managing Director;
 
@@ -36,7 +34,6 @@ Linsey Morrell, Director of Customer Experience;
 Joshua Abram Lloyd, Director of Community Engagement;
 
 Quinn Nichols, Fellowship Mentor
-
 ## Board Members
 **Hope Brown, President**
 
