@@ -40,30 +40,37 @@ Quinn Nichols, Fellowship Mentor
 
 ## Board Members
 **Hope Brown, President**
+
 Chair of Diversity, Equity, Inclusion, and Access Committee 
 Chair of Executive Committee 
 Play Selection Committee
 
 **Matt Kehoe, Vice President**
+
 Chair of Play Selection Committee
 Executive Committee
 
 **Conner Wieland, Treasurer**
+
 Executive Committee
 Fund Development Committee
 
 **Trashan Donald**
 
 **L'Oreal Hartwell, Secretary**
+
 Diversity, Equity, Inclusion, and Access Committee
 
 **Steve Hensley**
+
 Chair of Fund Development Committee
 Executive Committee
 
 **Kailen Piper**
+
 Special Events Committee
 
 **Mary Spadafore**
+
 Grounds and Maintenence Committee
 Volunteer Engagement Committee
