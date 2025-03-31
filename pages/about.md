@@ -8,9 +8,8 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
+{% include feature/nav-menu.html sections="About Pit & Balcony Theatre;History; Board and Staff" %}
 
 ## About Pit & Balcony Theatre's Archives
 
