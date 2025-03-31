@@ -39,7 +39,7 @@ Joshua Abram Lloyd, Director of Community Engagement;
 Quinn Nichols, Fellowship Mentor
 
 ## Board Members
-Hope Brown;
+Hope Brown, President; Chair of Diversity, Equity, Inclusion, and Access Committee; Chait of Executive Committee; Play Selection Committee;;
 
 Trashan Donald;
 
