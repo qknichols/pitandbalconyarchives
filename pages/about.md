@@ -30,27 +30,27 @@ During January of 1943 a the Barn was razed by fire. The group then rented space
 In 1948 vacant land at the corner of N. Hamilton and Throop was purchased and a building campaign began. Pit and Balcony members were actively involved in the construction of the theatre.In the fall of 1949, the first play in the new building was produced. Pit and Balcony Theatre remains in this building today.
 
 ## Staff
-Amy Spadafore, Managing Director
+Amy Spadafore, Managing Director;
 
-Linsey Morrell, Director of Customer Experience
+Linsey Morrell, Director of Customer Experience;
 
-Joshua Abram Lloyd, Director of Community Engagement
+Joshua Abram Lloyd, Director of Community Engagement;
 
 Quinn Nichols, Fellowship Mentor
 
 ## Board Members
-Hope Brown
+Hope Brown;
 
-Trashan Donald
+Trashan Donald;
 
-L'Oreal Hartwell
+L'Oreal Hartwell;
 
-Steve Hensley
+Steve Hensley;
 
-Matt Kehoe
+Matt Kehoe;
 
-Mary Spadafore
+Mary Spadafore;
 
-Kailen Piper
+Kailen Piper;
 
-Conner Wieland
+Conner Wieland;
