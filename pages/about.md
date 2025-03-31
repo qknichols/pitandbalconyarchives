@@ -39,21 +39,31 @@ Joshua Abram Lloyd, Director of Community Engagement;
 Quinn Nichols, Fellowship Mentor
 
 ## Board Members
-Hope Brown, President 
+**Hope Brown, President**
 Chair of Diversity, Equity, Inclusion, and Access Committee 
 Chair of Executive Committee 
 Play Selection Committee
 
-Trashan Donald;
+**Matt Kehoe, Vice President**
+Chair of Play Selection Committee
+Executive Committee
 
-L'Oreal Hartwell;
+**Conner Wieland, Treasurer**
+Executive Committee
+Fund Development Committee
 
-Steve Hensley;
+**Trashan Donald**
 
-Matt Kehoe;
+**L'Oreal Hartwell, Secretary**
+Diversity, Equity, Inclusion, and Access Committee
 
-Mary Spadafore;
+**Steve Hensley**
+Chair of Fund Development Committee
+Executive Committee
 
-Kailen Piper;
+**Kailen Piper**
+Special Events Committee
 
-Conner Wieland;
+**Mary Spadafore**
+Grounds and Maintenence Committee
+Volunteer Engagement Committee
