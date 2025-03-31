@@ -31,16 +31,26 @@ In 1948 vacant land at the corner of N. Hamilton and Throop was purchased and a 
 
 ## Staff
 Amy Spadafore, Managing Director
+
 Linsey Morrell, Director of Customer Experience
+
 Joshua Abram Lloyd, Director of Community Engagement
+
 Quinn Nichols, Fellowship Mentor
 
 ## Board Members
 Hope Brown
+
 Trashan Donald
+
 L'Oreal Hartwell
+
 Steve Hensley
+
 Matt Kehoe
+
 Mary Spadafore
+
 Kailen Piper
+
 Conner Wieland
