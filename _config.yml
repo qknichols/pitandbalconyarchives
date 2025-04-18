@@ -8,11 +8,11 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: qknichols.github.io
+url: https://qknichols.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /p&b_archives
+baseurl: /pitandbalconyarchives
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
+source-code: https://github.com/qknichols/pitandbalconyarchives
 
 ##########
 # SITE SETTINGS
