@@ -51,9 +51,9 @@ metadata: pb_metadata
 #   To remove the branding, comment out these values, or delete them. 
 #
 organization-name: "Pit & Balcony Theatre"
-organization-link: http://www.pitandbalconytheatre.com
-organization-logo-banner: http://www.pitandbalconytheatre.com/templates/pitandbalconytheatrev2.0/images/logoh.png
-organization-logo-nav: http://www.pitandbalconytheatre.com/templates/pitandbalconytheatrev2.0/images/logoh.png
+organization-link: https://www.pitandbalconytheatre.com
+organization-logo-banner: /assets/img/PBlogo-Horizontal2.png
+organization-logo-nav: /assets/img/PBlogo-Horizontal2.png
 
 ##########
 # ROBOTS EXCLUDE
